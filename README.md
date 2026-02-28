@@ -6,15 +6,14 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 💻 Desenvolvedor Back-End  
 🎓 ADS na FIAP  
-🚀 Foco em sistemas escaláveis e APIs REST   
 
 ---
 
-## 🧰 Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -24,7 +23,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
